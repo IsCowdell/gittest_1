@@ -1,5 +1,6 @@
 #main run file. Holds the user interface 
-char = []
+from character import make_char
 
-def make_char():
-    print("called make_char")
+def main():
+    print(make_char)
+
