@@ -2,5 +2,7 @@
 from character import make_char
 
 def main():
-    print(make_char)
+   make_char()
+
+main()
 
